@@ -48,4 +48,5 @@ We use the hint_text_extraction library to extract the hint text from the GUI pa
 ### ⚙️ LLM-Recommender
 
 We use the LLM-Recommender library with GPT-3.5-turbo model to recommend the most relevant words for the input.
+
 ```python LLM_Recommender.py -wl <word_list> -ht <hint_text> -li <local_infomatio> <output_dir>```
