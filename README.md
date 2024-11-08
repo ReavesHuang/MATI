@@ -17,7 +17,7 @@ python visualripper.py -o output -device emulator-5554 -app airbnb -package com.
 Here is the link of our method with cvrip: https://pan.nuaa.edu.cn/share/d21a17741135e06b7dc3c67839. (For the details of cvrip's usage, you can see the README.md in the project)
 We also provide some experiental subjects in the apk directory in the project.
 
-### Requirements
+### 📝 Requirements
 - Android Studio
     - API 30
     - Android 11
@@ -28,7 +28,7 @@ We also provide some experiental subjects in the apk directory in the project.
 
 - Python 3.8+
 
-## Demo
+## ✨ Demo
 We provide a workflow to show the MATI method in action.
 ![](./assets/workflow.png)
 
