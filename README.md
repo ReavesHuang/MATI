@@ -5,7 +5,7 @@ We introduce a new GUI text input generation method named MATI(Mining App to gen
 
 ## 🚀 Quick Start
 
-Our method can be integrated into any testing tool or framework. As an example, we integrated MATI to a GUI testing tool named cvrip.
+Our method can be integrated into any testing tool or framework. As an example, we integrated MATI to a GUI testing tool named cvrip. 
 
 In the project directory, we provide the following command to run the cvrip with MATI:
 ```shell
@@ -14,7 +14,7 @@ python visualripper.py -o output -device emulator-5554 -app airbnb -package com.
 
 ## 💡 Tips<a name="tips"></a>
 
-Here is the link of our method with cvrip: https://pan.nuaa.edu.cn/share/d21a17741135e06b7dc3c67839
+Here is the link of our method with cvrip: https://pan.nuaa.edu.cn/share/d21a17741135e06b7dc3c67839. (For the details of cvrip's usage, you can see the README.md in the project)
 We also provide some experiental subjects in the apk directory in the project.
 
 ### Requirements
