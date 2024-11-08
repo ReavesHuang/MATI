@@ -15,7 +15,7 @@ python visualripper.py -o output -device emulator-5554 -app airbnb -package com.
 ## 💡 Tips<a name="tips"></a>
 
 Here is the link of our method with cvrip: https://pan.nuaa.edu.cn/share/d21a17741135e06b7dc3c67839
-We also provide some experiential subjects in the apk directory in the project.
+We also provide some experiental subjects in the apk directory in the project.
 
 ### Requirements
 - Android Studio
