@@ -1,4 +1,4 @@
-# Filling Query-Type Text Inputs for Android Applications via Inner-App Mining and GPT Recommendation
+# A GUI Text Input Genaration Method - MATI
 ## 🔆 Introduction for MATI
 
 We introduce a new GUI text input generation method named MATI(Mining App to generate TestInput) for query-type input items in Android applications with an intent to effectively activate query searches. The method is built on an idea that the data suitable to input to a query often already occur on the GUI.
