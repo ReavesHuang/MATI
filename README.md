@@ -14,7 +14,7 @@ python visualripper.py -o output -device emulator-5554 -app airbnb -package com.
 
 ## 💡 Downloads<a name="tips"></a>
 
-Here is the link of our method with cvrip: https://pan.nuaa.edu.cn/share/d21a17741135e06b7dc3c67839. (For the details of cvrip's usage, you can see the README.md in the project)
+Here is the link of our method with cvrip: https://pan.nuaa.edu.cn/share/e880b7da655709421057487e3a. (For the details of cvrip's usage, you can see the README.md in the project)
 We also provide some experiental subjects in the apk directory in the project.
 
 ### 📝 Requirements
