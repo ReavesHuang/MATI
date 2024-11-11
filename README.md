@@ -12,7 +12,7 @@ In the project directory, we provide the following command to run the cvrip with
 python visualripper.py -o output -device emulator-5554 -app airbnb -package com.airbnb.android -start_activity com.airbnb.android.main.feat.homescreen.HomeActivity -window "0,63,1080,1794" -recognition yolov5+ocr -input art -state_compare resnet50+ssim_orb:0.5:0.9 -max_action_times 500
 ```
 
-## 💡 Tips<a name="tips"></a>
+## 💡 Downloads<a name="tips"></a>
 
 Here is the link of our method with cvrip: https://pan.nuaa.edu.cn/share/d21a17741135e06b7dc3c67839. (For the details of cvrip's usage, you can see the README.md in the project)
 We also provide some experiental subjects in the apk directory in the project.
