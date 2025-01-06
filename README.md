@@ -24,7 +24,7 @@ Here are the download resources for MATI:
    [[Download Link](https://pan.nuaa.edu.cn/share/1287b059ce3ef9dae134c73a4c?lang=en)]
 
 3. **The raw coverage data of MATI for the test runs in the experiments**  
-   [[Download Link](https://pan.nuaa.edu.cn/share/6225215732cd3e057cc147c211?lang=en])
+   [[Download Link](https://pan.nuaa.edu.cn/share/c7647ef7530278fca0d0151b9f?lang=en])
 
 4. **Subject input item dataset for the query detection experiment**  
    [[Download Link](https://pan.nuaa.edu.cn/share/e1ca23d1bee47c397fa9b556e5?lang=en)]
