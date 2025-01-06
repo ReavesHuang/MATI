@@ -14,13 +14,23 @@ python visualripper.py -o output -device emulator-5554 -app airbnb -package com.
 
 ## 💡 Downloads<a name="tips"></a>
 
-Here are links of data of MATI.
-1. Our method MATI with cvrip: https://pan.nuaa.edu.cn/share/58c00d9db1fda815b91452d07e. (For the details of cvrip's usage, you can see the README.md in the project)
-2. The actual input and output values for each query-type input item: https://pan.nuaa.edu.cn/share/d93d506d4a63827d79ed596ebb
-3. Experimental raw coverage data of MATI: https://pan.nuaa.edu.cn/share/3ebda5f8405530ebaf0736ca61
-4. Subject input item datasets from both AUT and RICO: https://pan.nuaa.edu.cn/share/19b9f9a38d3883ddecd1ab3091
-5. Subject APK file: https://pan.nuaa.edu.cn/share/3cf98164c25b2f0d0a40069e03
+Here are the download resources for MATI:
 
+1. **Our method MATI with cvrip**  
+   [[Download Link](https://pan.nuaa.edu.cn/share/dba7d689a644f1cd0301ecc576?lang=en)]  
+   *(For details on how to use cvrip, please see the README.md in the project.)*
+
+2. **The actual prompts and generated inputs for each query in the experimental subjects:**  
+   [[Download Link](https://pan.nuaa.edu.cn/share/1287b059ce3ef9dae134c73a4c?lang=en)]
+
+3. **The raw coverage data of MATI for the test runs in the experiments**  
+   [[Download Link](https://pan.nuaa.edu.cn/share/6225215732cd3e057cc147c211?lang=en])
+
+4. **Subject input item dataset for the query detection experiment**  
+   [[Download Link](https://pan.nuaa.edu.cn/share/e1ca23d1bee47c397fa9b556e5?lang=en)]
+
+5. **APK files of the subject applications**  
+   [[Download Link](https://pan.nuaa.edu.cn/share/0d24329c1002c96fe918b1ae88?lang=en)]
 
 ### 📝 Requirements
 - Android Studio
